@@ -1,0 +1,3 @@
+1.get number input from keyboad 
+2.send number to server
+3.server compute the factorial and send result back to client
